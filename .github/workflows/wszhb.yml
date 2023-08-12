@@ -45,6 +45,6 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: Shanghai Weather Report
-          html_body: 'test'
+          html_body: 'testt'
           to: 56556442@qq.com
           from: GitHub Actions
